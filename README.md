@@ -33,7 +33,7 @@
 - Propriedade
 - Estado
     - useState retorna um estado com duas posições
-        - Variavel com o valor inicial
+        - Variável com o valor inicial
         - Função para retornar esse valor
     - Imutabilidade: não se muda variável, sempre se recria.
         - Tem que evitar alterar variáveis.
